@@ -1,0 +1,11 @@
+---
+application:
+  name: "mapa-karnought-angular"
+  project: "mapa-karnought-umg"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-mapa-karnought-angular"
+  routes:
+  - application_name: "mapa-karnought-angular"
+    paths:
+    - "/*"
